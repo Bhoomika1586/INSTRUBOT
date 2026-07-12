@@ -1,0 +1,47 @@
+==================================================
+INSTRUWORKS - PRODUCT & CAPABILITY DATABASE
+==================================================
+
+CATEGORY 1: PRODUCT
+-------------------
+- Process Control Instrumentation: Differential Transmitters, Gauge Transmitters, Absolute Transmitters, Diaphragm Seals, Remote Seals.
+- Temperature Instrumentation: RTDs, Thermocouples, Thermowells, Smart Transmitters.
+- Flow Instrumentation: Coriolis Flow Meters, Ultrasonic Flow Meters, Magnetic Flow Meters, Vortex Flow Meters, Turbine Flow Meters.
+- Level Instrumentation: Radar Transmitters, Ultrasonic Transmitters, Guided Wave Radar, Hydrostatic Transmitters.
+- Valves & Regulators: Premium Low Temp Valves, Regulators, Fittings, Control Valves, Gate Valves, Globe Valves, Ball Valves.
+
+CATEGORY 2: APPLICATIONS
+------------------------
+- Field Commissioning: On-site testing, installation, and startup validation of process control equipment.
+- Flow Measurement: High-precision tracking of fluids, liquids, and gases passing through a pipeline.
+- Pressure Monitoring: Measuring differential, gauge, and absolute pressure in harsh or vacuum environments.
+- Temperature Management: Tracking high-heat or extreme-cold thermal parameters with real-time feedback loops.
+- Cryogenic Operations: Handling extremely low-temperature liquids and gases using specialized cryogenic service valves and fittings.
+- Hazardous Environments: Isolation and control of volatile fluids using specialized hazardous-area ball, gate, and globe valves.
+
+CATEGORY 3: INDUSTRY
+--------------------
+- Oil & Gas Sector
+- Manufacturing Industry
+- Water Treatment & Management Sectors
+- Energy & Power Sectors
+
+CATEGORY 4: BRAND
+------------------
+- Core Instrumentation Brands: WIKA, Siemens, ABB, Honeywell, Endress+Hauser, Fluke, Additel.
+- Specialty Valve & Component Brands: Drastar, OmniSeal, Ducco and Tachen.
+
+CATEGORY 5: AVL (APPROVED VENDOR LIST)
+--------------------------------------
+- Status: Instruworks is a trusted primary vendor and engineering partner for the Oil & Gas, Manufacturing, Water, and Energy sectors.
+- Approved OEM Suppliers: All listed brands (WIKA, Drastar, OmniSeal, Ducco and Tachen, Honeywell, ABB, Siemens, Endress+Hauser, Fluke, Additel) are fully certified and part of the Approved Vendor Lists for global industrial operations.
+
+==================================================
+COMPANY DETAILS & CONTACT
+==================================================
+Company Name: Instruworks
+Tagline: Precision Delivered, Performance Assured.
+Address: Instruworks | Meydan Freezone | Nad Al Sheba, Dubai U.A.E.
+Phone Contacts: +971 567 689827 / +971 567 990494
+Sales Email: menatsales@instruworks.com
+Official Website: www.instruworks.com
